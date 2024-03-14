@@ -1,6 +1,6 @@
 ## WASM WebGL Render Engine Port
 
-From [vai-gl](https://github.com/audreyadora/vai-gl)
+[vai-gl](https://github.com/audreyadora/vai-gl)
 
 (in progress) 
 #### Overview:
